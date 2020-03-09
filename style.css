@@ -95,8 +95,8 @@ body {
 .player-current-label {
     text-transform: uppercase;
     margin-bottom: 10px;
-    font-size: 12px;
-    color: #222;
+    /* font-size: 12px;
+    color: #222; */
 }
 
 .player-current-score {
